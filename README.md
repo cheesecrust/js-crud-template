@@ -1,1 +1,2 @@
-# CRUD Template with Supabase + React + Vite
+# CRUD Template with Supabase + React + Vite + Vercel
+
